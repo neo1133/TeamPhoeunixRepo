@@ -1,0 +1,15 @@
+#TeamPhoeunix
+- 👋 Hi, This is TeamPhoeunix Repo
+- 🌱 We are learning ...AWS_/D/evOPs_LINUX_
+- 💞️ We are looking to collaborate on ... ALL
+- 📫 How to reach us ... @email
+- ⚡ Fun fact: ... /N/A
+
+- Anu making changes 
+- Fave DevOps tool- VS code for now
+- git checkout <branch.name or main>
+
+
+<!---
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
