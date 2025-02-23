@@ -5,6 +5,9 @@
 - 📫 How to reach us ... @email
 - ⚡ Fun fact: ... /N/A
 
+- Anu making changes 
+- Fave DevOps tool- VS code for now
+- git checkout <branch.name or main>
 
 
 <!---
